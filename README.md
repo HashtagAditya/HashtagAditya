@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aditya Choudhary
-- 👀 I’m interested in ...Learning new things
+- 👀 I’m interested in Learning new things/Techstack
 - 🌱 I’m currently expolring the new possibility
 - 💞️ I’m looking to collaborate on Full stack Development
 - 📫 How to reach me at connectwithAditya@outlook.com
